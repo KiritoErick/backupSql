@@ -1,0 +1,14 @@
+{
+  "name": "backupdb",
+  "version": "1.0.0",
+  "description": "Creacion de respaldos en Nodejs y Express",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "author": "Erick Aleman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
+}
